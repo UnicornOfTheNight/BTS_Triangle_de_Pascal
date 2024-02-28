@@ -1,0 +1,13 @@
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.exe.config
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.exe
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.pdb
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.csprojAssemblyReference.cache
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.csproj.CoreCompileInputs.cache
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.exe
+C:\Users\Maeva\source\repos\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.pdb
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.exe.config
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.exe
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Debug\TrianglePascal.pdb
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.csprojAssemblyReference.cache
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.exe
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\obj\Debug\TrianglePascal.pdb

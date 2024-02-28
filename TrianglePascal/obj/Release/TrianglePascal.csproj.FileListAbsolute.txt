@@ -1,0 +1,12 @@
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.exe.config
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.exe
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.pdb
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.exe
+D:\Bureau\BTS SIO\MERCY - 1\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.pdb
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.exe.config
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.exe
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\bin\Release\TrianglePascal.pdb
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.csprojAssemblyReference.cache
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.csproj.CoreCompileInputs.cache
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.exe
+C:\Users\maeva\OneDrive\Bureau\TrianglePascal\TrianglePascal\obj\Release\TrianglePascal.pdb
