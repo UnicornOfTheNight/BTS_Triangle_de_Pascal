@@ -1,7 +1,7 @@
 # 🔺 BTS Triangle de Pascal
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Language](https://img.shields.io/badge/Language-C%23%20%2F%20Python%20%2F%20Java-green) **
+![Language](https://img.shields.io/badge/C%23-239120) **
 
 Un projet algorithmique réalisé dans le cadre du **BTS SIO**, implémentant la génération et l'affichage du célèbre **Triangle de Pascal**.
 
